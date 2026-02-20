@@ -1,0 +1,13 @@
+:root{
+    --primary-color:#7277bd;
+    --cor-fonte:#facfcf;
+    --cor-fundo-escuro: #484c81;
+    --cor-texto-claro: #c1c5f9;
+    --cor-input-fundo: #9895a3;
+    --cor-borda: #333333;
+    --cor-botao: #4a90e2;
+    --cor-botao-hover: #357abd;
+
+    --bordas-redondas: 10px;
+    --bordas-rolicas: 15px;
+}
